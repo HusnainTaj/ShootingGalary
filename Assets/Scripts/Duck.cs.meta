@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5ca95eabaa368b341aaddc7ded8408bd
+timeCreated: 1482822997
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - duckSound: {fileID: 8300000, guid: 645a926b9cc208f4692b932e1ff7364c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

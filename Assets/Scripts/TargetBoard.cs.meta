@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a35fc97979ff92141a456a41edacb652
+timeCreated: 1482823175
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boardSound: {fileID: 8300000, guid: 7af48cc850c207b4e9d50e6a656afa49, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
